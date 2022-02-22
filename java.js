@@ -1,7 +1,7 @@
 // let buttons = document.querySelectorAll('input')
 
 // let player = null
-// let bot = null
+// let bot = nullW
 
 // buttons[0].addEventListener('click', e => 
 // {
